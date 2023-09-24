@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RayJ108
-- 👀 I’m interested in moyu,basketball and singing.
-- 🌱 I’m currently learning NLP,image processing etc.
-- 📫 How to reach me: 995728676@qq.com
+- 👋 Hi, I’m @RuijieXu0408
+- 👀 I’m interested in moyu,coding and singing.
+- 🌱 I’m currently learning navigation systems, image processing etc.
+- 📫 How to reach me: ruijie.xu@connect.polyu.hk
 
 <!---
 RayJ108/RayJ108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
